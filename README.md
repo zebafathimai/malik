@@ -1,2 +1,2 @@
-# malik
-sample.txt
+# zeb
+this is my first githun desktop
